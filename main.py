@@ -7,10 +7,10 @@ STATIC_MAPS_API_KEY = "f3a0fe3a-b07e-4840-a1da-06f18b2ddf13"
 STATIC_MAPS_URL = "https://static-maps.yandex.ru/v1"
 
 GEOCODER_API_KEY = "8013b162-6b42-4997-9691-77b7074026e0"
-GEOCODER_URL = "https://geocode-maps.yandex.ru/v1/"
+GEOCODER_URL = "https://geocode-maps.yandex.ru/v1"
 
 SEARCH_MAPS_API_KEY = "dda3ddba-c9ea-4ead-9010-f43fbc15c6e3"
-SEARCH_MAPS_URL = "https://search-maps.yandex.ru/v1/"
+SEARCH_MAPS_URL = "https://search-maps.yandex.ru/v1"
 
 address = input("Введите адрес: ")
 
